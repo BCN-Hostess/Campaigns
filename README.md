@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/BCNHostess/Corporate/blob/main/BNC%20Hostess%20Logo.png">
-    <img src="https://github.com/BCNHostess/Corporate/blob/main/BNC%20Hostess%20Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/BCNHostess/Corporate/blob/main/BNC%20Hostess%20Logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
