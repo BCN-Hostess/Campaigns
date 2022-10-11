@@ -30,9 +30,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/BCNHostess/Corporate/blob/main/BNC%20Hostess%20Logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+![BNC Hostess Logo](https://user-images.githubusercontent.com/5947268/195112440-13d4b396-54ba-457b-b425-bee51a8ad1e4.png)
 
   <h3 align="center">Best-README-Template</h3>
 
